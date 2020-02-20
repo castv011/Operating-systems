@@ -1,3 +1,4 @@
 An operating system function, is that it provides services for application software. For example you are able to download apps and use them with in the operating system.
 You can download all types of apps, and download other things wihtin the app.
-Another system function is that you can manage the computer's resources such as the central processing unit, memory, disk drives, and printers. You can use all of there with this system function.
+Another system function is that you can manage the computer's resources such as the central processing unit, memory, disk drives, and printers. You can use all of there with this system functino.
+The last operating system function is that it establishes a user interface, so we are able to interact with the computer. And any demand we give, it will do. Without user interface it would be hard to navigate out operating systems. 
